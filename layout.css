@@ -1,0 +1,68 @@
+
+body{
+background-color: #0e5616;
+margin:0;
+padding:0;
+	
+}
+
+body p{
+line-height: 1,5em
+	
+}
+
+
+#titel{
+background-color: black;
+text-align: center;
+color: forestgreen; 
+font-size:x-large;	
+border: 2px solid black;
+font-family: Textile, fantasy;
+}
+
+ #menu {
+background-color: black;
+color: forestgreen; 
+text-align: center;
+font-size: x-large;
+padding: 0;
+
+ }
+ #menu li {
+display: inline;
+list-style-type: none;	
+padding: 0 25px 0 0 ;
+border-radius: 10px;
+
+}
+ 
+#menu a{
+color: forestgreen		
+} 
+ 
+ 
+#menu a:hover {
+background-color: #FFFFF1;
+color: black;
+border-radius: 10px;
+}
+
+
+
+#inhalt {
+text-align:center;
+color: black;
+background-color: forestgreen;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 3%;
+border: 5px black ;
+border-style:double;
+}
+
+#inhalt h2 {
+font-size: 30px
+	
+	
+}
